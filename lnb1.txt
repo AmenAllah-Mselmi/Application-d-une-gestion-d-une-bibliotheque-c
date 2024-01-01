@@ -1,0 +1,4 @@
+LesMiserables 4567 Albertlecroix VictorHugo 3 4 1862 classe1 3 4
+LePetitPrince 4568 Reynal&Hitchcock Antoinedesaint-Exupery 6 4 1943 classe1 5 7
+L'etranger 4569 EditionsGallimard AlbertCamus 19 5 1942 classe1 5 7
+LesFleursdumal 4570 AugustePoulet CharlesBoudelaire 21 6 1857 classe1 6 2

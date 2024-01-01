@@ -1,0 +1,6 @@
+Skhiri Ilyes 3 sousse 4 56478 etudiant
+Saafi Ramez 3 Italie 4 11111 enseignant
+Jabeur Ons 1 Espagne 1 79987 visiteur
+Drager Mohamed 3 Suisse 4 45678 enseignant
+Touti Saeb 1 London 2 11000 etudiant
+AmenAllah Mselmi 1 Sousse 2 12345 etudiant
